@@ -1,2 +1,2 @@
 # BTCSTDLIB
-Bobby's Toy Center Standard Library
+Bobby's Standard Library
